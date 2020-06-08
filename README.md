@@ -42,4 +42,4 @@ Component list
 |U3	| L78L05_TO92 |
 |Y1	|16Mhz|
 
-Enjoy it!!
+Enjoy it !!
