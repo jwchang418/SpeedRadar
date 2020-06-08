@@ -4,9 +4,10 @@ This project is designed by Jun-Wei Chang for making a simple speed radar using 
 
 ![image](https://github.com/jwchang418/SpeedRadar/blob/master/Fig1.jpg)
 
-|Component list|
-|----------|-----------|
-| U3	| L78L05_TO92|
+|Component list         |
+|----------|------------|
+| U3	     | L78L05_TO92|
+
 C12	10uF
 C10	10uF
 C11	0.1uF
