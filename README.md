@@ -1,5 +1,5 @@
 # SpeedRadar
 
-This project is designed by Jun-Wei Chang for making a simple speed radar using a few electronic componment.
+This project is designed by Jun-Wei Chang for making a simple speed radar using a few electronic component.
 
 Enjoy it.
