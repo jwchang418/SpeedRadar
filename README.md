@@ -23,7 +23,7 @@ Component list
 |C14	|10pF|
 |D1	|LED|
 |DC_in1 |Conn_01x02|
-|HB1 |HB100-KiCAD-rescue|
+|HB1 |HB100|
 |J1	|Conn_01x03|
 |J2	|Conn_01x03|
 |J3	|Conn_01x04|
