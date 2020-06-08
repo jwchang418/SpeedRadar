@@ -23,7 +23,7 @@ Component list
 |C8	|0.1uF|
 |C9	|0.1uF|
 |C10	|10uF|
-|C11	0.1uF|
+|C11	|0.1uF|
 |C12	|10uF|
 |C13	|10pF|
 |C14	|10pF|
