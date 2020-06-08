@@ -7,12 +7,6 @@ This project is designed by Jun-Wei Chang for making a simple speed radar using 
 Component list
 |Symbol|Value|
 | ---------- |------------ |
-|U1	|LM358|
-|U2	|ATmega328P-PU|
-|U3	| L78L05_TO92 |
-|Y1	|16Mhz|
-|DC_in1 |Conn_01x02|
-|HB1 |HB100-KiCAD-rescue|
 |C1	|10uF|
 |C2	|0.1uF|
 |C3	|0.1uF|
@@ -27,6 +21,13 @@ Component list
 |C12	|10uF|
 |C13	|10pF|
 |C14	|10pF|
+|D1	|LED|
+|DC_in1 |Conn_01x02|
+|HB1 |HB100-KiCAD-rescue|
+|J1	|Conn_01x03|
+|J2	|Conn_01x03|
+|J3	|Conn_01x04|
+|J4	|Conn_01x03|
 |R1	|100k|
 |R2	|100k|
 |R3	|10k|
@@ -36,10 +37,9 @@ Component list
 |R7	|10K|
 |R8	|200K|
 |R9	|1K|
-|D1	|LED|
-|J1	|Conn_01x03|
-|J2	|Conn_01x03|
-|J3	|Conn_01x04|
-|J4	|Conn_01x03|
+|U1	|LM358|
+|U2	|ATmega328P-PU|
+|U3	| L78L05_TO92 |
+|Y1	|16Mhz|
 
 Enjoy it.
