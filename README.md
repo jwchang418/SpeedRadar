@@ -4,7 +4,7 @@ This project is designed by Jun-Wei Chang for a simple speed radar by using a fe
 
 ![image](https://github.com/jwchang418/SpeedRadar/blob/master/Fig1.jpg)
 
-Component list  
+Components list  
 [here](https://github.com/jwchang418/SpeedRadar/blob/master/Components%20List.pdf)
 
 Enjoy it !!
